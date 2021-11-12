@@ -1,4 +1,4 @@
-<img src="./assets/avatar.png" width="100px%" />
+<img src="./assets/avatar.png" width="200px" />
 
 # About
 
