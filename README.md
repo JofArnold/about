@@ -11,7 +11,7 @@ I've been coding since the '90s, full time since '06, React since 2013, React Na
 
 Most of my spare time is spent on blockchain dev specialising in zero knowledge proofs.
 
-I have a slightly strange history involving nuclear reactor inspection robots, Russian space craft, motorsport, fuel injection systems and a couple of startups. You  Can find out more on my site below.
+I have a slightly strange history involving nuclear reactor inspection robots, Russian space craft, motorsport, fuel injection systems and a couple of startups. You  can find out more on my site below.
 
 # Socials
 
