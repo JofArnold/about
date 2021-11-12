@@ -1,4 +1,7 @@
+<img src="./assets/avatar.png" width="100px%" />
+
 # About
+
 
 Hello, I'm Jof (pronouced with a hard J).
 
