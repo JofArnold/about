@@ -17,7 +17,7 @@ I have a slightly strange history involving nuclear reactor inspection robots, R
 
 - **More about me**: [jofarnold.com](https://jofarnold.com).
 
-- **Twitter**: [@jofarnold.com](https://twitter.com/jofarnold).
+- **Twitter**: [@jofarnold](https://twitter.com/jofarnold).
 
 - **LinkedIn/CV**: [jofarnold](https://www.linkedin.com/in/jofarnold/).
 
