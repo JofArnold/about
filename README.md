@@ -2,16 +2,15 @@
 
 # About
 
+Hello, I'm Jof.
 
-Hello, I'm Jof (pronouced with a hard J).
-
-I'm an engineering manager and software engineer.
+I'm an engineering manager and software engineer specializing in React Native.
 
 I've been coding since the '90s, full time since '06, React since 2013, React Native since 2017.
 
-Most of my spare time is spent on blockchain dev specialising in zero knowledge proofs.
+Most of my spare time is spent on blockchain dev specialising in zero knowledge proofs - with a particular interest in the economic systems that ZKPs can enable - but I also sculpt in wood from time to time.
 
-I have a slightly strange history involving nuclear reactor inspection robots, Russian space craft, motorsport, fuel injection systems and a couple of startups. You  can find out more on my site below.
+I have a slightly strange history involving nuclear reactor inspection robots, Russian space craft, motorsport, fuel injection systems and a couple of startups. You can find out more on my site below.
 
 # Socials
 
@@ -27,7 +26,10 @@ I have a slightly strange history involving nuclear reactor inspection robots, R
 
 # What I'm currently working on
 
-Learning zkSNARKs; see various experiments [here](@JofArnold/zkp-learning-in-public).
+Learning zkSNARKs
+
+- Various experiments [here](@JofArnold/zkp-learning-in-public).
+- [Fantasy Campaign](https://github.com/Derked/FantasyCampaign) - a 3D dungeon crawler we built for a Chainlink hackathon that uses zkSNARKs to verify the user got to the end of the maze without cheating.
 
 # Skills
 
