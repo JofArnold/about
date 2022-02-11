@@ -18,9 +18,13 @@ I have a slightly strange history involving nuclear reactor inspection robots, R
 
 - **Twitter**: [@jofarnold](https://twitter.com/jofarnold).
 
-- **LinkedIn/CV**: [jofarnold](https://www.linkedin.com/in/jofarnold/).
+- **Instagram**: [@jofarnold](https://www.instagram.com/jofarnold/).
 
-- **DAOs/chat**: Various Discords - especially [Developer DAO](https://www.developerdao.com/).
+- **LinkedIn/CV**: [@jofarnold](https://www.linkedin.com/in/jofarnold/).
+
+- **YouTube**: [Jof Arnold](https://www.youtube.com/channel/UCXM8Pql6hHXhowvGTHzloUA).
+
+- **DAOs/chat**: Various Discords - especially [Developer DAO](https://www.developerdao.com/) and Orange DAO
 
 - **IRL**: London, UK.
 
