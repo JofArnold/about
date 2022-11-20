@@ -1,4 +1,4 @@
-<img src="./assets/avatar.png" width="200px" />
+<img src="./assets/avatar-cropped.png" width="200px" />
 
 # About
 
@@ -16,6 +16,10 @@ I have a slightly strange history involving nuclear reactor inspection robots, R
 
 - **More about me**: [jofarnold.com](https://jofarnold.com).
 
+
+
+- **YouTube**: [Jof Arnold](https://www.youtube.com/channel/UCXM8Pql6hHXhowvGTHzloUA).
+
 - **Twitter**: [@jofarnold](https://twitter.com/jofarnold).
 
 - **Instagram**: [@jofarnold](https://www.instagram.com/jofarnold/).
@@ -23,6 +27,8 @@ I have a slightly strange history involving nuclear reactor inspection robots, R
 - **LinkedIn/CV**: [@jofarnold](https://www.linkedin.com/in/jofarnold/).
 
 - **YouTube**: [Jof Arnold](https://www.youtube.com/channel/UCXM8Pql6hHXhowvGTHzloUA).
+
+- <b>Mastodon</b> <a rel="me" href="https://mastodon.social/@Jof">@Jof</a>
 
 - **DAOs/chat**: Various Discords - especially [Developer DAO](https://www.developerdao.com/) and Orange DAO
 
